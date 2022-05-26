@@ -15,7 +15,7 @@ I enjoy learning and tinkering with code. Before falling into the blockchain/cry
 * **Python**: [`Numpy`](https://numpy.org/) + [`scipy`](https://scipy.org/)
 * **BlockChain/Crypto**
   * <img src="https://avatars.githubusercontent.com/u/38020273?s=200&v=4" width=2.5%> [The Graph Protocol](https://thegraph.com/hosted-service/subgraph/tnkrxyz/inverse-finance)
-  * <img src="https://dune.com/assets/glyph-128w.png" width=2.5%> Unigrant Community Analytics Honorable Mentions [1](https://unigrants.notion.site/Bounty-5-1bp-vs-5bp-Stable-Pools-84569d3a84c643be8db763847ad5c4cb), [2](https://unigrants.notion.site/Bounty-6-History-and-analysis-of-Unisocks-1ccac9b86e2f41379cce599df632fe1d), [3](
+  * <img src="https://dune.com/assets/glyph-128w.png" width=2.5%> Unigrant Community Analytics Honorable Mentions [1](https://unigrants.notion.site/Bounty-5-1bp-vs-5bp-Stable-Pools-84569d3a84c643be8db763847ad5c4cb), [2](https://unigrants.notion.site/Bounty-6-History-and-analysis-of-Unisocks-1ccac9b86e2f41379cce599df632fe1d)
   * [ethereum.org website contributor](https://github.com/ethereum/ethereum-org-website/commits?author=tnkrxyz)
 * **Other**
   * [docker container](https://github.com/tnkrxyz/graph-node)
