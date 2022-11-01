@@ -1,4 +1,4 @@
-### Hi there 👋 , I am tnkrxyz
+### Hi there 👋 , I am tnkr
 
 I enjoy learning and tinkering with code. Before falling into the blockchain/crypto rabithole, my field is in data science with `R`, `SQL` and the `pydata` suite as my primary tech stack. I am hoping to bring my data science skills and experience and contribute to the web3/crypto world, which is why I am drawn to [The Graph Protocol](https://thegraph.com/docs/en/about/introduction/) and [Dune Analytics](https://docs.dune.com/). 
 
