@@ -5,6 +5,8 @@ I enjoy learning and tinkering with code. Before falling into the blockchain/cry
 ### My Tech Stack
 * **Typescript/Javascript**
   * [Inverse Finance Subgraph](https://thegraph.com/hosted-service/subgraph/tnkrxyz/inverse-finance)
+  * [dforce Subgraph](https://thegraph.com/hosted-service/subgraph/tnkrxyz/dforce)
+  * [MakerDAO subgraph](https://thegraph.com/hosted-service/subgraph/tnkrxyz/makerdao-ethereum)
   * [wiki2swarm](https://github.com/tnkrxyz/wiki2swarm) - a Javascript package uploading wikimedia snapshot to [Swarm Bee](https://www.ethswarm.org/)
 * **SQL/PostgreSQL**
   * <img src="https://dune.com/assets/glyph-128w.png" width=2.5%> [Dune Analytics](https://dune.com/tnkrxyz)
